@@ -1,0 +1,1 @@
+# This file contains the code for sending data from ESP32-CAM to a remote server.
