@@ -1,0 +1,1 @@
+# This file contains the code for capturing video from ESP32-CAM.
