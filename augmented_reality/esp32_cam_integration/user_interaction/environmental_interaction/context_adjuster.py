@@ -1,0 +1,1 @@
+# This file contains the code for adjusting the augmented reality experience based on the analyzed environmental context from the ESP32-CAM.
