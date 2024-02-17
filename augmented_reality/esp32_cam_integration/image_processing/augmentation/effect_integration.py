@@ -1,0 +1,1 @@
+# This file contains the code for integrating special effects with captured images and videos from ESP32-CAM.
