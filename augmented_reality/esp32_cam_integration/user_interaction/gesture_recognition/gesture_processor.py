@@ -1,0 +1,1 @@
+# This file contains the code for processing user gestures detected by ESP32-CAM.

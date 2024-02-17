@@ -1,0 +1,1 @@
+# This file contains the code for synchronizing data between ESP32-CAM and other devices.
