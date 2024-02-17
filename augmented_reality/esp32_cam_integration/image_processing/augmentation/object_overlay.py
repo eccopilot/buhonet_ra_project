@@ -1,0 +1,1 @@
+# This file contains the code for object overlaying on captured images from ESP32-CAM.
